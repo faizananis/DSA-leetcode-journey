@@ -3,18 +3,19 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int n=digits.size()-1;
         int num=0;
-        for(int i=0;i<=n;i++)
+        while(n>=0)
         {
-            num=num*10+digits[i];
+            if(digits[n]!=9)
+            {
+                digits[n]+=1;
+                return digits;
+            }
+            //If digit[n] = 9 then,
+            digits[n]=0;
+            n--;
         }
-        num+=1;
-        digits.clear();
-        for(int i=0;num!=0;i++)
-        {
-            digits.push_back(num%10);
-            num=num/10;
-        }
-        reverse(digits.begin(),digits.end());
+        //If all digits are 9 then,
+        digits.insert(digits.begin(),1);
         return digits;
     }
 };
