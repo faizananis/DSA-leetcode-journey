@@ -3,7 +3,8 @@ public:
     vector<int> createTargetArray(vector<int>& nums, vector<int>& index) {
         vector<int> target;
         int i=0;
-        while(i<nums.size()&&i<index.size())
+        int n=nums.size();
+        while(i<n)
         {
             if(index[i]==target.size())
             {
