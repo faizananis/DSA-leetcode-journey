@@ -8,10 +8,10 @@ public:
         {
             if(s[i]=='*')
             {
-                if(!str.empty())
-                {
+                //if(!str.empty())
+                //{
                     str.pop_back();
-                }
+                //}
             }
             else
             {
