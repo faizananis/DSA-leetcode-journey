@@ -1,60 +1,24 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        vector<int> result;
         int i=0;
-        int j=0;
         int n=nums.size();
-        //stack<int> st;
-        reverse(nums.begin(),nums.end());
-        // for(i=0;i<n;i++)
-        // {
-        //     nums.push_back(nums[i]);
-        // }
-        for(i=0;i<n*2;i++)
+        vector<int> result(n,-1);
+        stack<int> st;
+        for(i=n*2-1;i>=0;i--)
         {
-            // if(st.empty())
-            // {
-            //     result.push_back(-1);
-            //     st.push(nums[i]);
-            // }
-            // else
-            // {
-            //     if(st.top()<nums[i])
-            //     {
-            //         st.pop();
-            //         while(st.top()<nums[i]&&!st.empty())
-            //         {
-            //             st.pop();
-            //         }
-            //         st.push(nums[i]);
-            //         result.push_back(nums[i]);
-            //     }
-            //     else
-            //     {
-            //         st.push(nums[i]);
-            //         result.push_back(nums[i]);
-            //     }
-            // }
-            j=i;
-            while(j>0)
+            while(!st.empty()&&st.top()<=nums[i%n])
             {
-                if(nums[i%n]<nums[j%n])
+                st.pop();
+            }
+            if(i<n)
+            {
+                if(!st.empty())
                 {
-                    result.push_back(nums[j%n]);
-                    break;
+                    result[i]=st.top();
                 }
-                j--;
             }
-            if(j==0)
-            {
-                result.push_back(-1);
-            }
-        }
-        reverse(result.begin(),result.end());
-        for(i=0;i<n;i++)
-        {
-            result.pop_back();
+            st.push(nums[i%n]);
         }
         return result;
     }
