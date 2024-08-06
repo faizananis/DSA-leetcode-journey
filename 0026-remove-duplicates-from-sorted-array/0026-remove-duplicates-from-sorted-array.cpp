@@ -7,7 +7,7 @@ public:
         int n=nums.size();
         for(i=1;i<n;i++)
         {
-            if(i>0&&temp==nums[i])
+            if(temp==nums[i])
             {
                 continue;
             }
