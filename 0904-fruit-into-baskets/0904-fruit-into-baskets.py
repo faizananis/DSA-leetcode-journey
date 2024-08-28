@@ -16,7 +16,6 @@ class Solution:
                     table.pop(fruits[j])
                 j+=1
         return maxlength
-
             
             
                 
