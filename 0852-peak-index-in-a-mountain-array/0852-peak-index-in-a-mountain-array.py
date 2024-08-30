@@ -7,8 +7,8 @@ class Solution:
             mid=(left+right)//2
             if arr[peak]<arr[mid]:
                 peak=mid
-            if arr[mid]>arr[mid+1] and mid<len(arr)-1:
+            if arr[mid]>arr[mid+1]:
                 right=mid-1
-            elif arr[mid]<arr[mid+1] and mid<len(arr)-1:
+            elif arr[mid]<arr[mid+1]:
                 left=mid+1
         return peak
