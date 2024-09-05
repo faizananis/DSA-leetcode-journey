@@ -1,29 +1,34 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
-        ans=[]
         m=len(rolls)
         rolls_sum=sum(rolls)
         total_sum=mean*(m+n)
         missing_sum=total_sum-rolls_sum
         expected_sum=rolls_sum+n*6
         if expected_sum < total_sum or missing_sum<n*1:
-            return ans
+            return []
         i=0
         val=1
         k=0
-        while i<n:
-            ans.append(1)
-            i+=1
-        i=0
+        # while i<n:
+        #     ans.append(1)
+        #     i+=1
+        # i=0
         missing_sum-=n
         mod=missing_sum%5
-        div=missing_sum//5
-        while i<div:
-            ans[i]=6
-            i+=1
-        if i<n:
-            ans[i]+=mod
+        floor_div=missing_sum//5
+        ans=[6]*floor_div
+        if len(ans)<n:
+            ans.append(mod+1)
+        if len(ans)<n:
+            ans=ans+[1]*(n-len(ans))
         return ans
+        # while i<div:
+        #     ans[i]=6
+        #     i+=1
+        # if i<n:
+        #     ans[i]+=mod
+        # return ans
         # while i<n:
         #     ans[i]+=1
         # while sum(ans)!=missing_sum:
