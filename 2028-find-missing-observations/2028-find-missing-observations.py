@@ -10,10 +10,6 @@ class Solution:
         i=0
         val=1
         k=0
-        # while i<n:
-        #     ans.append(1)
-        #     i+=1
-        # i=0
         missing_sum-=n
         mod=missing_sum%5
         floor_div=missing_sum//5
@@ -23,19 +19,6 @@ class Solution:
         if len(ans)<n:
             ans=ans+[1]*(n-len(ans))
         return ans
-        # while i<div:
-        #     ans[i]=6
-        #     i+=1
-        # if i<n:
-        #     ans[i]+=mod
-        # return ans
-        # while i<n:
-        #     ans[i]+=1
-        # while sum(ans)!=missing_sum:
-        #     if k<n:
-        #         ans.append(val)
-        #         k+=1
-        #     if val<=6:
             
 
 
