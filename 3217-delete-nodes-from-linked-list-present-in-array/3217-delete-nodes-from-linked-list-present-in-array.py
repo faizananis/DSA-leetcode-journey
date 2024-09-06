@@ -8,8 +8,6 @@ class Solution:
         s=set(nums)
         prev=head
         temp=head
-        # for i in nums:
-        #     dic[i]=0
         while temp!=None:
             if temp.val in s:
                 if head==temp:
