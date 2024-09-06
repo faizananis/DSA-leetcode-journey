@@ -5,13 +5,13 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
-        #dic={}
+        s=set(nums)
         prev=head
         temp=head
         # for i in nums:
         #     dic[i]=0
         while temp!=None:
-            if temp.val in nums:
+            if temp.val in s:
                 if head==temp:
                     temp=temp.next
                     prev=temp
