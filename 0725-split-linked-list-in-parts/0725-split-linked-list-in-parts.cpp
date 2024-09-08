@@ -14,68 +14,52 @@ public:
         vector<ListNode*> res;
         ListNode* mainHead=head;
         ListNode* partHead=NULL;
-        int size=0;
         ListNode* t=head;
+        int size=0;
         int div=0;
-        int mod=-1;
+        int mod=0;
+        int i=0;
+        int j=0;
+        int partLength=div;
         while(t!=NULL)
         {
             size++;
             t=t->next;
         }
         div=size/k;
-        if(div!=0)
+        mod=size%k;
+        for(i=0;i<k;i++)
         {
-            mod=size%k;
-        }
-        if(mod==-1)
-        {
-            while(k>0)
+            if(mainHead==NULL)
             {
-                partHead=NULL;
-                if(mainHead!=NULL)
-                {
-                    partHead=new ListNode();
-                    partHead->val=mainHead->val;
-                    mainHead=mainHead->next;
-                }
-                res.push_back(partHead);
-                k--;
+                res.push_back(NULL);
+                continue;
             }
-        }
-        else
-        {
-            int i=0;
-            int j=0;
-            int partLength=div;
-            for(i=0;i<k;i++)
+            partHead=new ListNode();
+            t=partHead;
+            if(mod>0)
             {
-                partHead=new ListNode();
-                t=partHead;
-                if(mod>0)
+                partLength=div+1;
+                mod--;
+            }
+            else
+            {
+                partLength=div;
+            }
+            for(j=0;j<partLength;j++)
+            {
+                if(j>0)
                 {
-                    partLength=div+1;
-                    mod--;
+                    t->next=new ListNode(mainHead->val);
+                    t=t->next;
                 }
                 else
                 {
-                    partLength=div;
+                    t->val=mainHead->val;
                 }
-                for(j=0;j<partLength;j++)
-                {
-                    if(j>0)
-                    {
-                        t->next=new ListNode(mainHead->val);
-                        t=t->next;
-                    }
-                    else
-                    {
-                        t->val=mainHead->val;
-                    }
-                    mainHead=mainHead->next;
-                }
-                res.push_back(partHead);
+                mainHead=mainHead->next;
             }
+            res.push_back(partHead);
         }
         return res;
     }
