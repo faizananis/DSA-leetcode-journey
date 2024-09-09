@@ -45,7 +45,7 @@ public:
                 break;
             }
             i--;
-            for(j=n+num-2;j>=0;j--)
+            for(j=n-num-2;j>=0;j--)
             {
                 if(arr[i][j]!=-1||head==NULL)
                 {
@@ -59,7 +59,7 @@ public:
                 break;
             }
             j++;
-            for(i=m+num-2;i>=0;i--)
+            for(i=m-num-2;i>=0;i--)
             {
                 if(arr[i][j]!=-1||head==NULL)
                 {
