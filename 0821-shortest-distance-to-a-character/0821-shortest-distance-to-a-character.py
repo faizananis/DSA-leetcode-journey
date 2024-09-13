@@ -6,14 +6,12 @@ class Solution:
         for i in range(len(s)):
             if s[i]==c:
                 left=i
+                right=i
                 break
         for i in range(len(s)):
             if s[i]==c and left!=i:
                 right=i
                 break
-        
-        if right==-1:
-            right=left
         
         for i in range(len(s)):
             if i==right:
