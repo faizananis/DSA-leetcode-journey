@@ -6,12 +6,10 @@ public:
         int size=nums.size();
         int i=0;
         int k=0;
-        for(i=0;i<size-1;i++)
+        for(i=0;i<size;i++)
         {
             maximum=max(maximum,nums[i]&nums[i]);
-            maximum=max(maximum,nums[i]&nums[i+1]);
         }
-        maximum=max(maximum,nums[i]);
         for(i=0;i<size;i++)
         {
             if(nums[i]==maximum)
