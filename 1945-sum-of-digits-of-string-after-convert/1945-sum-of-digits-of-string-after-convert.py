@@ -2,17 +2,17 @@ class Solution:
     def getLucky(self, s: str, k: int) -> int:
         number=0
         for i in s:
-            if ord(i)<106:
+            if ord(i)<=105:
                 number=number*10
-            else:
+            elif ord(i)<=122:
                 number=number*100
-            number+=ord(i)-96
-        res=0
+            number=number+ord(i)-96
+        
         while k>0:
-            res=0
+            sume=0
             while number>0:
-                res+=number%10
+                sume=sume+number%10
                 number=number//10
-            number=res
+            number=sume
             k-=1
-        return res
+        return sume
