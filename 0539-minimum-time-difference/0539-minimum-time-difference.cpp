@@ -17,11 +17,8 @@ public:
         int j=0;
         for(j=size-1;j>0;j--)
         {
-            minimum=min(minimum,abs(minutes[j]-minutes[j-1]));
-            minimum=min(minimum,abs(minutes[j]+minutes[j-1]-1438));
+            minimum=min(minimum,minutes[j]-minutes[j-1]);
         }
-        minimum=min(minimum,abs(minutes[0]-minutes[size-1]));
-        minimum=min(minimum,abs(minutes[0]+minutes[size-1]-1438));
-        return minimum;
+        return min(minimum,minutes[0]-minutes[size-1]+1440);
     }
 };
