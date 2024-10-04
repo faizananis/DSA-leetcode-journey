@@ -7,7 +7,6 @@ public:
         sort(skill.begin(),skill.end());
         int left=0;
         int right=n-1;
-        sum=0;
         while(left<right)
         {
             if(value!=-1)
