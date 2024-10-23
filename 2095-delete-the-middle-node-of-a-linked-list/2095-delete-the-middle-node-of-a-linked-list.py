@@ -9,8 +9,8 @@ class Solution:
         slow = head
         fast = head
         if head.next == None:
-            head = head.next
-            return head
+            #head = head.next
+            return None
         while fast and fast.next:
             prev = slow
             slow  = slow.next
@@ -18,4 +18,5 @@ class Solution:
 
         prev.next = slow.next
         return head
+
         
