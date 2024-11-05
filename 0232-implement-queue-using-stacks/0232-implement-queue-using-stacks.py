@@ -9,9 +9,9 @@ class MyQueue:
     def pop(self) -> int:
         if not self.stack:
             return None
-        temp=self.stack[0]
-        self.stack.pop(0)
-        return temp
+        #temp=self.stack[0]
+        return self.stack.pop(0)
+        #return temp
 
     def peek(self) -> int:
         if not self.stack:
