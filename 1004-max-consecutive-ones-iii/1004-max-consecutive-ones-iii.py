@@ -6,7 +6,7 @@ class Solution:
             if nums[right]==0:
                 zero+=1
             if zero>k:
-                while nums[left]!=0:
+                while nums[left]!=0 and left<size:
                     left+=1
                 left+=1
                 zero-=1
