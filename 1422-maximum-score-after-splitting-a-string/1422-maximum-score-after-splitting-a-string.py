@@ -1,28 +1,47 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        one=0
-        zero=0
-        sums=0
-        for n in s:
-            if n=='1':
-                one+=1
+        left = ""
+        right = ""
+        max_score = 0
         for i in range(len(s)-1):
-            if s[i]=='0':
-                zero+=1
-            else:
-                one-=1
-            sums=max(sums,one+zero)
-        return sums
-        # zero=0
-        # one=0
-        # size=len(s)
-        # sums=0
-        # prefixLeft=[0]*size
-        # prefixRight=[0]*size
-        # nums=list(s)
+            left = s[:i+1]
+            right = s[i+1:]
+            max_score = max(left.count('0') + right.count('1'),max_score)
+        return max_score
 
-        # for i in range(size):
-        #     if nums[i]=='0':
+
+
+
+
+
+
+
+
+# class Solution:
+#     def maxScore(self, s: str) -> int:
+#         one=0
+#         zero=0
+#         sums=0
+#         for n in s:
+#             if n=='1':
+#                 one+=1
+#         for i in range(len(s)-1):
+#             if s[i]=='0':
+#                 zero+=1
+#             else:
+#                 one-=1
+#             sums=max(sums,one+zero)
+#         return sums
+#         # zero=0
+#         # one=0
+#         # size=len(s)
+#         # sums=0
+#         # prefixLeft=[0]*size
+#         # prefixRight=[0]*size
+#         # nums=list(s)
+
+#         # for i in range(size):
+#         #     if nums[i]=='0':
         #         zero+=1
         #     prefixLeft[i]=zero
         
