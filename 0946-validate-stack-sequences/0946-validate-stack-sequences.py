@@ -13,5 +13,5 @@ class Solution:
                 push+=1
             else:
                 break
-        return push==pop==n
+        return push==pop
             
