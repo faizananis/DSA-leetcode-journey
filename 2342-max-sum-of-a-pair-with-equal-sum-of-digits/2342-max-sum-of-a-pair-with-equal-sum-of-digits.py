@@ -25,7 +25,7 @@ class Solution:
             prevNum=num
             prevValue=value
         if ans:
-            return max(ans)
+            return ans[0]
         return -1
         
 
