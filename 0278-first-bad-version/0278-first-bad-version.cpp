@@ -10,13 +10,13 @@ public:
         while(left<right)
         {
             mid=(left/2)+(right/2);
-            if(isBadVersion(mid))
+            if(isBadVersion(mid)==false)
             {
-                right=mid;
+                left=mid+1;
             }
             else
             {
-                left=mid+1;
+                right=mid;
             }
         }
         return left;
