@@ -2,12 +2,12 @@ class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         if len(p)>len(s):
             return []
-        p_freq={}
-        for c in p:
-            if c not in p_freq:
-                p_freq[c]=1
-            else:
-                p_freq[c]+=1
+        p_freq=Counter(p)
+        # for c in p:
+        #     if c not in p_freq:
+        #         p_freq[c]=1
+        #     else:
+        #         p_freq[c]+=1
         
         left=0
         right=0
