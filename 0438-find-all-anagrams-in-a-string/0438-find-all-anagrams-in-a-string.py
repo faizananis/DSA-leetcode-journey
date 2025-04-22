@@ -11,7 +11,8 @@ class Solution:
         right=0
         window={}
         ans=[]
-        
+        if len(p)>len(s):
+            return ans
         while right<len(p):
             if s[right] not in window:
                 window[s[right]]=1
