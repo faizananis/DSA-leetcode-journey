@@ -2,6 +2,7 @@ class Solution:
     def countLargestGroup(self, n: int) -> int:
         my_dict={}
         max_size=0
+        count=0
         for i in range(1,n+1):
             num=i
             sums=0
@@ -12,10 +13,9 @@ class Solution:
                 my_dict[sums]=1
             else:
                 my_dict[sums]+=1
-            max_size=max(max_size,my_dict[sums])
-        
-        count=0
-        for n in my_dict:
-            if my_dict[n]==max_size:
+            if my_dict[sums]==max_size:
                 count+=1
+            elif my_dict[sums]>max_size:
+                count=1
+            max_size=max(max_size,my_dict[sums])
         return count
