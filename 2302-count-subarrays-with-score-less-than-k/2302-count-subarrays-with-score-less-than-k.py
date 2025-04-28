@@ -7,7 +7,7 @@ class Solution:
         for right in range(len(nums)):
             score+=nums[right]
             window=right-left+1
-            while score*window>=k and left<right:
+            while score*window>=k:
                 score-=nums[left]
                 left+=1
                 window-=1
