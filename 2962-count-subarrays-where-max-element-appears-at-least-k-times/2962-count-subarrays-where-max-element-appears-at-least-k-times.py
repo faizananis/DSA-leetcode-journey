@@ -9,7 +9,7 @@ class Solution:
             if nums[right]==value:
                 count+=1
             window=right-left+1
-            while count>=k:
+            while count==k:
                 result+=len(nums)-right
                 if nums[left]==value:
                     count-=1
