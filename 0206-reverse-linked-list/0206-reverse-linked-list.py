@@ -9,9 +9,9 @@ class Solution:
         current = head
         
         while current:
-            next_node = current.next  # Store the next node
-            current.next = prev       # Reverse the current node's pointer
-            prev = current            # Move prev and current one step forward
+            next_node = current.next  
+            current.next = prev       
+            prev = current            
             current = next_node
             
-        return prev  # New head of the reversed list
+        return prev 
