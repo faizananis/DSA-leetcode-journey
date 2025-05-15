@@ -6,6 +6,7 @@ class Solution:
                 my_dict[arr[i]]+=1
             else:
                 my_dict[arr[i]]=1
+                
         distinct=my_dict.values()
         my_set=set(distinct)
         if len(my_set)==len(distinct):
