@@ -14,4 +14,5 @@ class Solution:
                 if grumpy[i-minutes]==1:
                     slide-=customers[i-minutes]
             maxSlide=max(maxSlide,slide)
+            
         return satisfied+maxSlide
