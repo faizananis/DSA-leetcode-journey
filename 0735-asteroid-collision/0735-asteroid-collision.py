@@ -11,5 +11,4 @@ class Solution:
                     st.append(val)
                 if len(st)>0 and st[-1]==abs(val):
                     st.pop()
-        reversed(st)
         return st
