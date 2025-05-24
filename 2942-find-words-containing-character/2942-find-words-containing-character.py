@@ -3,7 +3,7 @@ class Solution:
         result=[]
         for i in range(len(words)):
             for j in words[i]:
-                if j==x[0]:
+                if j==x:
                     result.append(i)
                     break
         return result
