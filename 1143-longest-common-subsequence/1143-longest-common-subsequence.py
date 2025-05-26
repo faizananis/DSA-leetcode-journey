@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonSubsequence(self,text1: str, text2: str) -> int:
-        
+        @lru_cache(maxsize=None)
 
         def dp(i,j):
             # Base Case: reached the end of either string
