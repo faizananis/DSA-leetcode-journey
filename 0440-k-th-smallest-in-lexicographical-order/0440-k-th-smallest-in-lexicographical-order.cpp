@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int countSteps(int n, int curr, int currNext)
+    long countSteps(long n, long curr, long currNext)
     {
-        int steps=0;
+        long steps=0;
         while(curr<=n)
         {
             steps+=min(n+1,currNext)-curr;
@@ -11,9 +11,9 @@ public:
         }
         return steps;
     }
-    int findKthNumber(int n, int k) {
-        int curr=1;
-        int steps=0;
+    long findKthNumber(long n, long k) {
+        long curr=1;
+        long steps=0;
         k--;
         while(k>0)
         {
