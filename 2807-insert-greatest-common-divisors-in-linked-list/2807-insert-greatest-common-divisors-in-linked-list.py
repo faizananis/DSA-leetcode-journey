@@ -9,6 +9,7 @@ class Solution:
         while num1%div!=0 or num2%div!=0:
             div-=1
         return div
+        
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head.next==None:
             return head
