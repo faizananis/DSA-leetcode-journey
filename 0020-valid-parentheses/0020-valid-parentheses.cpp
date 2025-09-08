@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValid(string s) {
-        int i=0;
+       int i=0;
         stack<char> str;
         for(i=0;i<s.size();i++)
         {
@@ -13,7 +13,7 @@ public:
             {
                 if(str.empty())
                 {
-                    return false;
+                    return true;
                 }
                 if(str.top()=='('&&s[i]==')')
                 {
