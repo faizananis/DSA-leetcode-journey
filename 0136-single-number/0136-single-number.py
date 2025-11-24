@@ -3,4 +3,5 @@ class Solution:
         xor=0
         for val in nums:
             xor^=val
+            #xor=xor^val
         return xor
