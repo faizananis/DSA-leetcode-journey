@@ -14,4 +14,4 @@ class Solution:
             prev = current            
             current = next_node
             
-        return prev 
+        return prev
