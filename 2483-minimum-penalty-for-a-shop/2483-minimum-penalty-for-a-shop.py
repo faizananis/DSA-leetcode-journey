@@ -1,7 +1,6 @@
 class Solution:
     def bestClosingTime(self, customers: str) -> int:
         penalty=0
-        j=0
         for i in range(len(customers)):
             if customers[i]=='Y':
                 penalty+=1
