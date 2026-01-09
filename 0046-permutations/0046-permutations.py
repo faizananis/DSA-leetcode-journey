@@ -1,14 +1,15 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        visited = set()
-        res = []
-        self.backtracking(res,visited,[],nums)
-        return res
-    def backtracking(self,res,visited,subset,nums):
-        if len(subset) == len(nums):
-            res.append(subset)
-        for i in range(len(nums)):
-            if i not in visited:
-                visited.add(i)
-                self.backtracking(res,visited,subset+[nums[i]],nums)
-                visited.remove(i)
+        def generate(A = []):
+            if len(A) == len(nums):
+                ans.append([n for n in A])
+            else:
+                for n in nums:
+                    if n not in A:
+                        A.append(n)
+                        generate(A)
+                        A.pop()
+
+        ans = []
+        generate()
+        return ans
