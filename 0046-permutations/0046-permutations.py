@@ -1,6 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        def generate(A = []):
+        def generate(A):
             if len(A) == len(nums):
                 ans.append(A[:])
             else:
