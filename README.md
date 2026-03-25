@@ -12,6 +12,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,16 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
