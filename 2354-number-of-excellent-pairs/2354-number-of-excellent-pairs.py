@@ -7,7 +7,7 @@ class Solution:
             count=0
             while n:
                count+=n&1
-               n=n>>1
+               n//=2
             if count not in hash_map:
                 hash_map[count]=1
             else:
