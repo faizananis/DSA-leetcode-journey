@@ -8,6 +8,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 <!---LeetCode Topics End-->
