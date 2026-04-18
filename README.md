@@ -64,4 +64,8 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
