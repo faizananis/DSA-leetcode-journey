@@ -15,6 +15,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -68,4 +69,8 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
