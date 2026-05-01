@@ -14,6 +14,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
@@ -29,6 +30,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
