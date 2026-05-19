@@ -17,6 +17,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
@@ -28,6 +29,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0001-two-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0001-two-sum/) | Easy |
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
@@ -85,4 +87,8 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
