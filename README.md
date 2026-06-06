@@ -26,6 +26,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -67,6 +68,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
