@@ -23,6 +23,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -101,6 +102,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -109,5 +111,6 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
