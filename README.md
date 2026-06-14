@@ -114,6 +114,15 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
