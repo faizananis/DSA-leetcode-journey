@@ -12,6 +12,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
