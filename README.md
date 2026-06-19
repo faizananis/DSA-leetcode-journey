@@ -22,6 +22,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -72,6 +73,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
