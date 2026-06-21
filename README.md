@@ -23,6 +23,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -89,6 +90,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -101,6 +103,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -131,4 +134,8 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
