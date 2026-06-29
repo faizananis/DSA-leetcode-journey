@@ -9,6 +9,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0140-word-break-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0140-word-break-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -26,6 +27,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
