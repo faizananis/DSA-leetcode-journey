@@ -36,6 +36,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -72,6 +73,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -146,4 +149,16 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
