@@ -78,6 +78,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
