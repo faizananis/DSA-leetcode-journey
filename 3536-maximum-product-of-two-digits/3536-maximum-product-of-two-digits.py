@@ -1,8 +1,13 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        digits=[]
+        firstmax=0
+        secondmax=0
         while n:
-            digits.append(n%10)
+            x=n%10
+            if x>firstmax:
+                secondmax=firstmax
+                firstmax=x
+            elif x>secondmax:
+                secondmax=x
             n//=10
-        digits.sort()
-        return digits[-1]*digits[-2]
+        return firstmax*secondmax
