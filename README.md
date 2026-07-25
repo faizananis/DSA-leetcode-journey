@@ -104,6 +104,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
