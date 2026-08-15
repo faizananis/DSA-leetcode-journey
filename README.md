@@ -42,6 +42,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2354-number-of-excellent-pairs](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
