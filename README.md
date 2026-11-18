@@ -13,6 +13,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
