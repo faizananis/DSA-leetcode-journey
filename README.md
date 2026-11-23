@@ -28,6 +28,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -91,6 +92,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -119,6 +121,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0877-stone-game/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -184,4 +187,12 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/faizananis/60DaysOfLeetcode/tree/main/0877-stone-game/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
