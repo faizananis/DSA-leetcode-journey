@@ -124,6 +124,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | [1352-product-of-the-last-k-numbers](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
@@ -138,6 +139,7 @@ Challenge myself by Solving Complex problem for 60 Days in Leetcode with consist
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/faizananis/60DaysOfLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/faizananis/60DaysOfLeetcode/tree/main/3838-weighted-word-mapping/) | Easy |
